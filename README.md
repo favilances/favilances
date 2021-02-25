@@ -2,8 +2,9 @@
 <h3 align="center"> Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujal-ops-cyber" alt="sujal-ops-cyber" /> </p>
-
-- 👨‍💻 Projelerim Burada Github'da
+<center>
+<h1>Front-End Developer</h1>
+</center>
 
 <br>
 <h1 align="center">🛠️ Developer!</h1>
