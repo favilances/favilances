@@ -1,4 +1,4 @@
-![welcome](https://i.hizliresim.com/1cSWr6.png)<a href="https://discord.gg/PaKbuT9Fnv"> <img src="https://s4.gifyu.com/images/standardbadd9712e005dc0d.gif" align="right"/>
+![welcome]()<a href="https://discord.gg/PaKbuT9Fnv"> <img src="https://s4.gifyu.com/images/standardbadd9712e005dc0d.gif" align="right"/>
 
 
 - 🌱 Genç Bir Geliştiriciyim 🤣
