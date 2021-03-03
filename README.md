@@ -1,4 +1,4 @@
-![welcome]()<a href="https://discord.gg/PaKbuT9Fnv"> <img src="https://s4.gifyu.com/images/standardbadd9712e005dc0d.gif" align="right"/>
+<a href="https://discord.gg/PaKbuT9Fnv"> <img src="https://s4.gifyu.com/images/standardbadd9712e005dc0d.gif" align="right"/>
 
 
 - 🌱 Genç Bir Geliştiriciyim 🤣
