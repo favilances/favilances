@@ -36,7 +36,7 @@ Currently coding discord bots for payments. Send me a message on discord to disc
 
 <p align="center">
 <a href="https://discord.gg/PaKbuT9Fnv">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+    <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
 
   </a>
