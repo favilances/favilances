@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://discord.gg/PaKbuT9Fnv"> <img width="350" src="https://i.imgur.com/8MupZHY.gif" align="right"/>
+<a href="https://discord.gg/PaKbuT9Fnv"> <img width="350" src="https://magiccopy.xyz/assets/images/hadder.gif" align="right"/>
 
 
 <br> 
