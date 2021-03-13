@@ -29,8 +29,9 @@
   <a href="https://github.com/favixl">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favixl&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=favixl&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
-	  <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="favixl" /> </p>
-
+	<center> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="favixl" /> </p>
+	  </center>
   </a>
 </p>
 
