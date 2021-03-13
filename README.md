@@ -3,6 +3,7 @@
 
 - 🌱 Developer 
 - ⚡ Discord Onaylı Bot Geliştiricisi :) <br/>
+- 🕊 Maze Development
 
 ### Languages and Tools:
 
