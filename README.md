@@ -39,7 +39,7 @@
 * Piyasanızın Kıyametiyim!
 ## 🕊 Discord:
 
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
+  <div align="center"><img href="https://github.com/mazedevelopment" src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
 
 
 <p align="center">
