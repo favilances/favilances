@@ -39,7 +39,8 @@
 * Email: favi@favianbot.tk 
 
 ## 🐠 Bio : 
-* "Tutulur yıldıza verilen söz.."
+* "Tutulur yıldıza verilen söz.." 
+* "The promise given to the star is kept .."
 ## 🕊 Discord:
 
   <div align="center"><img href="https://github.com/mazedevelopment" src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
