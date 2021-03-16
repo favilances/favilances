@@ -11,8 +11,8 @@
 - ⚡ Discord Onaylı Bot Geliştiricisi :) <br/>
 - 🕊 Maze Development
 
-
-	
+### About me;
+	<p></p>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
