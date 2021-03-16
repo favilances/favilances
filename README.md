@@ -8,7 +8,7 @@
 <br> 
 
 - 🌱 Developer 
-- ⚡ Discord Onaylı Bot Geliştiricisi :) <br/>
+- ⚡ Discord Approved Bot Developer :) <br/>
 - 🕊 Maze Development
 
 ### About me;
