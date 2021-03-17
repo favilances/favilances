@@ -12,7 +12,9 @@
 - 🕊 Maze Development
 
 ### About me;
+	
 	Hi, I am a Young Developer. I know Java, Python, PHP programming languages. I am Front-End Developer.
+
 ### Languages and Tools;
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
