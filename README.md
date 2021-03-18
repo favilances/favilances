@@ -1,4 +1,4 @@
-![favi](https://i.hizliresim.com/EsbQW5.png)
+![favi](https://i.hizliresim.com/XFQYnH.png)
 
 
 <br>
