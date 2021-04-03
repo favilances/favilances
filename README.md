@@ -37,7 +37,9 @@
 	  </center>
   </a>
 </p>
-
+<br>
+<iframe src="https://open.spotify.com/embed/track/0kb45bLkER1V0gcu2rnw69" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br>
 ## 📫 Contact: 
 * Email: favi@favianbot.tk 
 
@@ -52,5 +54,3 @@
 <a href="https://discord.gg/PaKbuT9Fnv">
     <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
-## 🕊 Spotify;
-<iframe src="https://open.spotify.com/embed/track/0kb45bLkER1V0gcu2rnw69" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
