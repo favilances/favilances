@@ -38,7 +38,6 @@
   </a>
 </p>
 <br>
-<iframe src="https://open.spotify.com/embed/track/0kb45bLkER1V0gcu2rnw69" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>
 ## 📫 Contact: 
 * Email: favi@favianbot.tk 
