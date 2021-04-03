@@ -47,7 +47,7 @@
 ## 🕊 Discord:
 
   <div align="center"><img href="https://github.com/mazedevelopment" src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
-
+<iframe src="https://open.spotify.com/embed/track/0kb45bLkER1V0gcu2rnw69" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <p align="center">
 <a href="https://discord.gg/PaKbuT9Fnv">
