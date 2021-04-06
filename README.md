@@ -50,6 +50,6 @@
   <div align="center"><img href="https://github.com/mazedevelopment" src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
 
 <p align="center">
-<a href="https://discord.gg/PaKbuT9Fnv">
+<a href="https://discord.gg/yfVrgXJVbm">
     <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
   </a>
