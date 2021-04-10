@@ -47,7 +47,7 @@
 * "The promise given to the star is kept .."
 ## 🕊 Discord:
 
-  <div align="center"><img href="https://github.com/mazedevelopment" src="https://discord.c99.nl/widget/theme-3/785824288329826324.png"></div>
+  <div align="center"><img href="https://github.com/Maze-Development" src="https://discord.c99.nl/widget/theme-2/356106336146292736.png"></div>
 
 <p align="center">
 <a href="https://discord.gg/yfVrgXJVbm">
