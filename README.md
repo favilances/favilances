@@ -1,4 +1,4 @@
-![favi](https://cdn.discordapp.com/attachments/785824829197910029/822215060658192444/githubprofilfavi.png)
+![favi](https://i.hizliresim.com/c1c9yf.png)
 
 
 <br>
