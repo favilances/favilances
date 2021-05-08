@@ -40,7 +40,7 @@
 
 
 ## 📫 Contact: 
-* Email: favi@favianbot.tk 
+* Email: info@favilances.xyz 
 
 ## 🐠 Bio : 
 * "Tutulur yıldıza verilen söz.." 
