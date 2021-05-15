@@ -3,7 +3,7 @@
 
 <br>
 <h1>P.A.$$$.A</h1>
-<a href="https://discord.gg/PaKbuT9Fnv"> <img width="500" src="https://camo.githubusercontent.com/e963d4372a4a9b29118efbae3064d86458da547842c4bf12d160d99584365119/68747470733a2f2f73342e67696679752e636f6d2f696d616765732f7374616e64617264626164643937313265303035646330642e676966" align="right"/>
+<a href="https://discord.gg/PaKbuT9Fnv"> <img width="500" src="https://discord.com/assets/98fe9cdec2bf8ded782a7bf1e302b664.svg" align="right"/>
 
 
 <br> 
