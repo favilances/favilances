@@ -3,7 +3,6 @@
 
 <br>
 <h1>P.A.$$$.A</h1>
-<a href="https://discord.gg/PaKbuT9Fnv"> <img width="500" src="https://discord.com/assets/98fe9cdec2bf8ded782a7bf1e302b664.svg" align="right"/>
 
 
 <br> 
