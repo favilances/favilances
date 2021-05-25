@@ -2,7 +2,7 @@
 
 
 <br>
-<h1>P.A.$$$.A</h1>
+<h1>Favilances (P.A.$$$.A)</h1>
 
 
 <br> 
@@ -29,8 +29,8 @@
 ## 🍁 Statistics;
 <p align="center">
   <a href="https://github.com/favixl">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passsa&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=passsa&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favilances&layout=compact&theme=material-palenight&langs_count=12" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=favilances&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=passsa" alt="favixl" /> </p>
 	  </center>
@@ -42,8 +42,7 @@
 * Email: info@favilances.xyz 
 
 ## 🐠 Bio : 
-* "Tutulur yıldıza verilen söz.." 
-* "The promise given to the star is kept .."
+* "Havalı satırlar kavgacı tavırlar ölmeye hazırlar Güya!" 
 ## 🕊 Discord:
 
   <div align="center"><img href="https://github.com/Maze-Development" src="https://discord.c99.nl/widget/theme-2/356106336146292736.png"></div>
