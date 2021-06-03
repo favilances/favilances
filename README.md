@@ -4,12 +4,6 @@
 <h1>Favilances (P.A.$$$.A)</h1>
 
 
-<br> 
-
-- 🌱 Developer 
-- ⚡ Discord Approved Bot Developer :) <br/>
-- 🕊 Maze Development
-
 <div align="center">
     <a href="https://discord.com/users/356106336146292736" target="_blank"><img src="https://shields.io/badge/Favilances-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/favilances" target="_blank"><img src="https://shields.io/badge/Favilances-111111.svg?&style=for-the-badge&logo=github"></a>
