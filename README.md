@@ -1,5 +1,5 @@
 <br>
-<h1>Favilances</h1>
+
 
 <img src="https://cdn.discordapp.com/attachments/989957058965172295/1069705683013992569/favilances.png" alt="fav">
 
