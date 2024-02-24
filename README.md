@@ -1,7 +1,7 @@
 <br>
 
 
-<img src="https://cdn.discordapp.com/attachments/989957058965172295/1069705683013992569/favilances.png" alt="fav">
+<img src="https://www.favilances.com.tr/images/favi.png" alt="fav">
 
 <div align="center">
     <a href="https://discord.com/users/151155117540900864" target="_blank"><img src="https://shields.io/badge/Favilances-111111.svg?&style=for-the-badge&logo=discord"></a>
