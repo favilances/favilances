@@ -1,6 +1,5 @@
 <br>
 
-https://avatars.githubusercontent.com/u/78090594?v=4
 <img src="https://avatars.githubusercontent.com/u/78090594?v=4" alt="fav">
 
 <div align="center">
