@@ -1,10 +1,15 @@
-<br>
 
-<img src="https://avatars.githubusercontent.com/u/78090594?v=4" alt="fav">
 
-<div align="center">
-    <a href="https://github.com/favilances" target="_blank"><img src="https://shields.io/badge/Favilances-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~favilances" target="_blank"><img src="https://shields.io/badge/Favilances-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://favilances.com.tr/" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
-<a rel="me" href="https://universeodon.com/@fav">Mastodon</a>
-</div>
+Hi 👋, I'm favilances
+===========================
+
+**manager @maze.**
+
+I aim to follow the developments in the field of technology and software and reflect this information to my projects. I enjoy working and generating new ideas. If you would like to contact me, you can reach me at "x@2005.tr".
+* 🖥️  [my website](https://www.favilances.com/en/)
+
+<h3 href="https://me.favilances.com" align="left">Social</h3>
+
+</p>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=favilances&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
