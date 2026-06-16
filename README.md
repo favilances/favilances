@@ -1,6 +1,6 @@
-<a href="https://github.com/MZaFaRM/MZaFaRM">
+<a href="https://github.com/favilances/favilances">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZaFaRM/MZaFaRM/main/dark_mode.webp">
-    <img alt="Muhammed Zafar's GitHub Profile README" src="https://raw.githubusercontent.com/MZaFaRM/MZaFaRM/main/light_mode.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/favilances/favilances/main/dark_mode.webp">
+    <img alt="Favilances's GitHub Profile README" src="https://raw.githubusercontent.com/favilances/favilances/main/light_mode.webp">
   </picture>
 </a>
