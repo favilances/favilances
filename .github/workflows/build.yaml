@@ -30,7 +30,7 @@ jobs:
             - name: Update README file
               env:
                   ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-                  USER_NAME: ${{ secrets.USER_NAME }}
+                  USER_NAME: favilances
               run: python today.py
 
             - name: Cache Playwright browsers
